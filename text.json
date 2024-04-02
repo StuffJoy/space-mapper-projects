@@ -1,0 +1,33 @@
+[
+    {
+        "project_id": 0,
+        "project_name": "Human Mobility Project",
+        "project_description": "The Human Mobility Project is aimed at better understanding how patterns of human movement and activities are changing in the context of climate change.",
+        "project_link": "https://ee.kobotoolbox.org/single/O5DDmZ06",
+        "empty_variable": null,
+        "project_image": "https://activityspaceproject.com/images/BuffSim3D_sampleof10.png",
+        "some_thing": 1,
+        "another_thing": "aMz7EhF3ZpzMvNUMwtR4eN"
+    },
+    {
+        "project_id": 1,
+        "project_name": "Public Space Observer",
+        "project_description": "This project is for sociologists carrying out systematic observations of public spaces.",
+        "project_link": "https://ee.kobotoolbox.org/single/1FUvZ7RD",
+        "empty_variable": null,
+        "project_image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Barcelona_2016-307.jpg",
+        "some_thing": 1,
+        "another_thing": "aC4pD9cVr5NSZaFCFWyg4Z"
+    },
+    {
+        "project_id": 2,
+        "project_name": "Mosquito On Board",
+        "project_description": "'Mosquito On Board' is a closed project being carried out by scientists in Spain to study the survival of tiger mosquitoes in cars. You must be registered to participate.",
+        "project_link": "https://ee.kobotoolbox.org/single/aCVvkv5V",
+        "empty_variable": null,
+        "project_image": "https://www.periodismociudadano.com/wp-content/uploads/2020/11/mosquito-49141_640.jpg",
+        "some_thing": 1,
+        "another_thing": "aKNGJqKdqjLMfJEtYk7f5U"
+    }
+]
+
